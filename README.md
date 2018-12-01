@@ -16,7 +16,11 @@ Please send a PR to update this README with your Sketch link.
 
 # Day 1
 
-- [username] - [sketch link]
+[Part 1 input](https://sketch.sh/s/waLhXOOdMXf8e0PMxWsyvp/)
+
+## Part 1
+
+- [thangngoc89](https://sketch.sh/s/0WHyOv5Xl37Y0PDO9tlgWq/)
 
 # Day 2
 
