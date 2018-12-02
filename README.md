@@ -22,6 +22,9 @@ Please send a PR to update this README with your Sketch link.
 
 # Day 2
 
+[Input](https://sketch.sh/s/j83Iab6iogw81frAAKHAsI/)
+
+- [thangngoc89](https://sketch.sh/s/BF0oLfAXgSywvO43pVAjB5/)
 # Day 3
 
 # Day 4
