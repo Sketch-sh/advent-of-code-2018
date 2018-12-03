@@ -30,6 +30,10 @@ Please send a PR to update this README with your Sketch link.
 
 # Day 3
 
+[Input](https://sketch.sh/s/ukKfWR053UCRDAJLK2GDSh/)
+
+- [thangngoc89](https://sketch.sh/s/NC5sRbc3lfBf60BKkt4YVb/)
+
 # Day 4
 
 # Day 5
